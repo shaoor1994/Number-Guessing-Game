@@ -1,0 +1,25 @@
+{
+  "name": "number-guessing-game",
+  "version": "1.0.0",
+  "description": "This is a Simple Node Typescript Project Built using inquirer",
+  "main": "index.js",
+  "type":"module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shaoor1994/Number-Guessing-Game.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/shaoor1994/Number-Guessing-Game/issues"
+  },
+  "homepage": "https://github.com/shaoor1994/Number-Guessing-Game#readme",
+  "dependencies": {
+    "@types/inquirer": "^9.0.3",
+    "inquirer": "^9.1.4"
+  }
+}
